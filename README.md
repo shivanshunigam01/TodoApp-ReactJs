@@ -1,13 +1,7 @@
 <!-- prettier-ignore -->
 # 📝React.js Todo App
 
-[https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
 
-## 📷 Screenshots
-
-<img src="public/screenshots/3.png" width="350px" />
-<img src="public/screenshots/4.png" width="350px" />
-<img src="public/screenshots/5.png" width="350px" />
 
 ## ⚡ Features
 
@@ -25,7 +19,7 @@
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/maciekt07/TodoApp.git`
+- Clone the repository: `git clone https://github.com/shivanshunigam01/TodoApp-ReactJs.git`     
 - Navigate to the project directory: `cd TodoApp`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
